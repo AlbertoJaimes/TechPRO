@@ -188,7 +188,7 @@ img {
       transparent 50%,
       var(--primario) 0%
     ),
-    url(../img/imagen-mujer.avif);
+    url(../img/imagen-mujer.jpg);
 }
 @media (min-width: 768px) {
   .sobre-tech {
@@ -216,7 +216,7 @@ img {
         transparent 50%,
         var(--primario) 0%
       ),
-      url(../img/imagen-mujer.avif);
+      url(../img/imagen-mujer.jpg);
   }
 }
 @media (min-width: 1600px) {
@@ -382,7 +382,7 @@ img {
       transparent 50%,
       var(--blanco) 0%
     ),
-    url(../img/newsletter.avif);
+    url(../img/newsletter.jpg);
 }
 @media (min-width: 768px) {
   .newsletter {
@@ -412,7 +412,7 @@ img {
         transparent 50%,
         var(--blanco) 0%
       ),
-      url(../img/newsletter.avif);
+      url(../img/newsletter.jpg);
   }
 }
 @media (min-width: 2200px) {
